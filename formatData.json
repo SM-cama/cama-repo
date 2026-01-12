@@ -1,6 +1,6 @@
 
 {
-  "F_init": "B",
+  "F_init": "A",
   "F_dest": "C",
-  "step": 12
+  "step": 8
 }
