@@ -1,9 +1,10 @@
 
 {
-  "F_init": "B",
-  "F_dest": "A",
-  "step": 5
+  "F_init": "A",
+  "F_dest": "F",
+  "step": 12
 }
+
 
 
 
