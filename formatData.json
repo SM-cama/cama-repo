@@ -2,7 +2,9 @@
 {
   "F_init": "A",
   "F_dest": "B",
-  "step": 99
+  "title": "Pusher plate replacement"
+  "status": true;
 }
+
 
 
