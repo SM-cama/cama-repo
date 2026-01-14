@@ -3,8 +3,9 @@
   "F_init": "A",
   "F_dest": "B",
   "title": "Pusher plate replacement",
-  "status": "true";
+  "status": true
 }
+
 
 
 
